@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountScore</string>
+    <string name="teamb">队伍B</string>
+    <string name="teama">队伍A</string>
+    <string name="defaultValue">0</string>
+    <string name="back">撤回</string>
+    <string name="reset">充值</string>
+    <string name="plus1">+1</string>
+    <string name="plus2">+2</string>
+    <string name="plus3">+3</string>
+</resources>
